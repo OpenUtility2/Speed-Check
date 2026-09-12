@@ -1,6 +1,6 @@
 # ⚡ Speed Check — Powered by OpenUtility
 
-A sleek, lightweight, and ultra-fast internet speed test web application inspired by Fast.com. Built with pure modern HTML, CSS, and vanilla JavaScript—no heavy frameworks required. 
+A sleek, lightweight, and ultra-fast internet speed test web application inspired by Fast.com. Built with pure modern HTML, CSS, and vanilla JavaScript—no heavy frameworks required.
 
 Features real-time network streaming via the `ReadableStream` API, dynamic SVG gauge animations, latency measurement, upload tracking, and a glassmorphic UI.
 
@@ -13,13 +13,3 @@ Features real-time network streaming via the `ReadableStream` API, dynamic SVG g
 * **Zero Dependencies:** Pure HTML5/CSS3/Vanilla JS implementation inside a single lightweight file.
 * **Glassmorphism UI:** Neon dark-mode theme built with CSS variables, SVG graphics, and responsive layouts.
 * **Branded Footer:** Clean integration of the **OpenUtility** brand mark and styling.
-
----
-
-## 🚀 Quick Start
-
-### 1. Clone or Download
-Clone this repository to your local machine:
-```bash
-git clone [https://github.com/your-username/speed-check.git](https://github.com/your-username/speed-check.git)
-cd speed-check
